@@ -1,0 +1,87 @@
+# Sample Resume - John Doe
+
+## Contact Information
+- Email: john.doe@email.com
+- Phone: +1 (555) 123-4567
+- LinkedIn: linkedin.com/in/johndoe
+- GitHub: github.com/johndoe
+- Location: San Francisco, CA
+
+## Professional Summary
+Full-stack software engineer with 5+ years of experience building scalable web applications. Specialized in React, Node.js, and cloud infrastructure. Passionate about clean code, system design, and mentoring junior developers.
+
+## Technical Skills
+
+### Programming Languages
+- JavaScript/TypeScript (Expert)
+- Python (Advanced)
+- Java (Intermediate)
+- SQL (Advanced)
+
+### Frontend
+- React.js, Next.js, Vue.js
+- HTML5, CSS3, Tailwind CSS
+- Redux, Context API
+
+### Backend
+- Node.js, Express.js
+- Django, Flask
+- RESTful APIs, GraphQL
+- Microservices architecture
+
+### Databases
+- PostgreSQL, MySQL
+- MongoDB, Redis
+
+### Cloud & DevOps
+- AWS (EC2, S3, Lambda, RDS)
+- Docker, Kubernetes
+- CI/CD (Jenkins, GitHub Actions)
+
+## Work Experience
+
+### Senior Software Engineer | TechCorp Inc.
+*June 2021 - Present | San Francisco, CA*
+
+- Led development of customer-facing dashboard serving 500K+ users, reducing load time by 40%
+- Architected microservices migration from monolith, improving system reliability to 99.9% uptime
+- Mentored team of 4 junior developers through code reviews and pair programming
+- Implemented automated testing pipeline, increasing code coverage from 45% to 85%
+- Technologies: React, Node.js, PostgreSQL, AWS, Docker, Kubernetes
+
+### Software Engineer | StartupXYZ
+*Jan 2019 - May 2021 | San Francisco, CA*
+
+- Built real-time chat application handling 10K concurrent users using WebSocket
+- Developed RESTful APIs for mobile app with 100K+ downloads
+- Optimized database queries reducing response time by 60%
+- Technologies: Vue.js, Express.js, MongoDB, Redis, AWS Lambda
+
+## Education
+
+### Bachelor of Science in Computer Science
+*University of California, Berkeley | 2013 - 2017*
+- GPA: 3.8/4.0
+- Relevant Coursework: Data Structures, Algorithms, Database Systems
+- Dean's List: 2015, 2016, 2017
+
+## Projects
+
+### E-Commerce Platform
+*Personal Project | 2022*
+- Built full-stack e-commerce application with payment integration
+- Features: Product catalog, shopping cart, user authentication, order tracking
+- Implemented Stripe payment gateway and email notifications
+- Tech Stack: Next.js, Node.js, PostgreSQL, Stripe API
+
+### Real-Time Analytics Dashboard
+*Hackathon Winner | 2021*
+- Created live analytics dashboard for monitoring social media metrics
+- Processed 1M+ data points using stream processing
+- Won "Best Technical Implementation" award
+- Tech Stack: React, Socket.io, Python, Apache Kafka
+
+## Certifications
+- AWS Certified Solutions Architect - Associate (2022)
+- Google Cloud Professional Cloud Developer (2021)
+- MongoDB Certified Developer (2020)
