@@ -1,4 +1,4 @@
-cat > README.md << 'ENDOFFILE'
+
 # Resume RAG Chatbot
 
 A free chatbot that lets people ask questions about your resume using AI. Runs 100% locally on your computer.
@@ -83,4 +83,4 @@ Open browser to `http://localhost:8501`
 Jessica Wadhwa - [@jessica27272](https://github.com/jessica27272)
 ENDOFFILE
 
-echo "✅ Simple README created"****
+
